@@ -1,0 +1,11 @@
+{
+  "name": "bank-node",
+  "version": "1.0.0",
+  "description": "bank oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Alice Honorio",
+  "license": "ISC"
+}
