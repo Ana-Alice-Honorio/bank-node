@@ -1,6 +1,7 @@
 export class Cliente {
-  nome;
-  cpf;
-  agencia;
-  saldo;
+  constructor(nome, cpf, senha) {
+    this.nome = nome;
+    this._cpf = cpf;
+    this._senha = senha;
+  }
 }
